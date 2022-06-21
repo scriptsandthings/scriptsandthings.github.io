@@ -35,6 +35,9 @@ theme_config:
 
 highlighter: rouge
 
+soopr:
+  publish-token: "pt_77884a35ec63e2816732d99736df8ce7" 
+
 sass:
   style: :compressed
 
