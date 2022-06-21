@@ -34,13 +34,13 @@ project_entries:
 
 
 footer_entries:
-  - title: Scripts and Things Homepage
+  - title: Home
     url: https://gregknackstedt.com
 
-  - title: GitHub
+  - title: My GitHub
     url: https://github.com/scriptsandthings
 
-  - title: LinkedIn
+  - title: My LinkedIn
     url: https://www.linkedin.com/in/gregknac/
     
     
