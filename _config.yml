@@ -15,8 +15,8 @@ permalink: pretty
 # include:
 #  - 
  plugins:
-   - jjekyll-seo-tag
-   - jekyll-feed
+#   - jjekyll-seo-tag
+#   - jekyll-feed
 #   - jekyll-gist
 #   - jekyll-feed
 #   - jemoji
