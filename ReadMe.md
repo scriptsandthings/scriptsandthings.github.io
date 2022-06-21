@@ -1,4 +1,4 @@
-# GitHub Repositories
+# My GitHub Repositories
 
 [Jamf Things](https://github.com/scriptsandthings/Jamf_things)
 
@@ -10,7 +10,7 @@
 
 [Windows Things](https://github.com/scriptsandthings/Windows_things)
 
-# GitHub Repositories (GitHub Pages Versions)
+# My GitHub Repositories (GitHub Pages Versions)
 
 [Jamf Things](https://scriptsandthings.github.io/Jamf_things)
 
