@@ -14,7 +14,7 @@ date_format: "%Y-%m-%d"
 permalink: pretty
 # include:
 #  - 
- plugins:
+# plugins:
 #   - jjekyll-seo-tag
 #   - jekyll-feed
 #   - jekyll-gist
