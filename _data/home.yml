@@ -1,12 +1,15 @@
 navbar_entries:
-#  - title: About
-#    url: About
+#  - title: eBike Things
+#    url: http://www.gregknackstedt.com/eBike_Things/
 
 #  - title: blog
 #    url: Blog
 
   - title: Home
     url: https://gregknackstedt.com
+    
+#  - title: eBike Things
+#    url: http://www.gregknackstedt.com/eBike_Things/
 
 project_entries:
   - title: Jamf Things
@@ -31,6 +34,11 @@ project_entries:
     url: https://gregknackstedt.com/Windows_things
     desc: Scripts for basic issues intended to be accessible to end users via Software Center
 
+old_project_entries:
+  - title: eBike Things
+    url: http://www.gregknackstedt.com/eBike_Things/
+    desc: "Things related to eBikes and eBike building/upgrading/modifications"
+    highlight: NEW
 
 
 footer_entries:
