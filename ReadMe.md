@@ -12,7 +12,7 @@
 
 # My GitHub Repositories (GitHub Pages Versions)
 
-## These aren't quite working yet...
+#### These aren't quite working yet since my ReadMe.md files are mostly blank currently. So they're just placeholders at the moment.
 
 [Jamf Things](https://scriptsandthings.github.io/Jamf_things)
 
