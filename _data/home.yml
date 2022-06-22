@@ -8,8 +8,8 @@ navbar_entries:
   - title: Home
     url: https://gregknackstedt.com
     
-#  - title: eBike Things
-#    url: http://www.gregknackstedt.com/eBike_Things/
+  - title: About Scripts and Things
+    url: about
 
 project_entries:
   - title: Jamf Things
