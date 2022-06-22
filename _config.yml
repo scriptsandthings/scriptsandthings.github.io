@@ -1,5 +1,5 @@
 title: "Scripts and Things"
-description: "Scripts and things for macOS, Jamf Pro, occasionally Windows/Azure/VMware. Plus, a few personal passions."
+description: "Scripts and things for macOS, Jamf Pro, occasionally Windows/Azure/VMware. A few personal passions too."
 remote_theme: scriptsandthings/moonwalk
 domain: gregknackstedt.com       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: https://gregknackstedt.com  # the base hostname and protocol for your site, e.g. http://example.com
